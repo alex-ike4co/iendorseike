@@ -9,3 +9,6 @@ To run:
 To update the app for a new candidate:
 1. Update main.js lines 3-8
 2. Replace img/background1.jpg and img/background2.jpg with candidate-specific hero images (target ratio of 1000x500 px)
+
+Keeping feature IDs here until central PM software used:
+1. Social media sharing
