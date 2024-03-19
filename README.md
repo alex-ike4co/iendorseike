@@ -1,10 +1,11 @@
-# iendorsebernie
-What's powering iendorsebernie.com
-
-The website that is generated here is entirely client-side. It's just a static web page.
-
-Source is in pug, so that means that index.php is generated from index.php.pug.
-
-If you are deploying a branch of this, you may find yourself needing to set up a license to Adobe fonts to use the Jubilat web-font.
-
 # iendorseike
+
+To run:
+1 - Ensure PHP is installed on the machine (https://kinsta.com/blog/install-php/)
+2 - Navigate to root directory 
+3 - Execute: php -S 127.0.0.1:8000
+4 - Load browser at localhost:8000
+
+To update the app for a new candidate:
+1 - Update main.js lines 3-8
+2 - Replace img/background1.jpg and img/background2.jpg with candidate-specific hero images (target ratio of 1000x500 px)
